@@ -16,6 +16,5 @@ C#, a language that works with dotnet, was used to create this program.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Learn Microsoft](https://learn.microsoft.com/en-us/training/modules/dotnet-dependencies/3-exercise-dependency)
 * [W3 Schools](https://www.w3schools.com/cs/cs_output.php)
