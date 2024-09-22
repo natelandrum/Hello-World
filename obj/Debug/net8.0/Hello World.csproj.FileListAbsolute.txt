@@ -1,0 +1,14 @@
+C:\Users\nate1\Desktop\Pathway\4. Fall 2024\4. Applied Programming\W01\Hello World\bin\Debug\net8.0\Hello World.exe
+C:\Users\nate1\Desktop\Pathway\4. Fall 2024\4. Applied Programming\W01\Hello World\bin\Debug\net8.0\Hello World.deps.json
+C:\Users\nate1\Desktop\Pathway\4. Fall 2024\4. Applied Programming\W01\Hello World\bin\Debug\net8.0\Hello World.runtimeconfig.json
+C:\Users\nate1\Desktop\Pathway\4. Fall 2024\4. Applied Programming\W01\Hello World\bin\Debug\net8.0\Hello World.dll
+C:\Users\nate1\Desktop\Pathway\4. Fall 2024\4. Applied Programming\W01\Hello World\bin\Debug\net8.0\Hello World.pdb
+C:\Users\nate1\Desktop\Pathway\4. Fall 2024\4. Applied Programming\W01\Hello World\obj\Debug\net8.0\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nate1\Desktop\Pathway\4. Fall 2024\4. Applied Programming\W01\Hello World\obj\Debug\net8.0\Hello World.AssemblyInfoInputs.cache
+C:\Users\nate1\Desktop\Pathway\4. Fall 2024\4. Applied Programming\W01\Hello World\obj\Debug\net8.0\Hello World.AssemblyInfo.cs
+C:\Users\nate1\Desktop\Pathway\4. Fall 2024\4. Applied Programming\W01\Hello World\obj\Debug\net8.0\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\nate1\Desktop\Pathway\4. Fall 2024\4. Applied Programming\W01\Hello World\obj\Debug\net8.0\Hello World.dll
+C:\Users\nate1\Desktop\Pathway\4. Fall 2024\4. Applied Programming\W01\Hello World\obj\Debug\net8.0\refint\Hello World.dll
+C:\Users\nate1\Desktop\Pathway\4. Fall 2024\4. Applied Programming\W01\Hello World\obj\Debug\net8.0\Hello World.pdb
+C:\Users\nate1\Desktop\Pathway\4. Fall 2024\4. Applied Programming\W01\Hello World\obj\Debug\net8.0\Hello World.genruntimeconfig.cache
+C:\Users\nate1\Desktop\Pathway\4. Fall 2024\4. Applied Programming\W01\Hello World\obj\Debug\net8.0\ref\Hello World.dll
